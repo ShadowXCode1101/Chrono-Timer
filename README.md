@@ -79,6 +79,8 @@ that's basically it.
 
 it works.
 mostly.
+
+made it a web app - https://chrono-timer-ten.vercel.app
 if something breaks, i'll probably fix it eventually.
 
 ## license
